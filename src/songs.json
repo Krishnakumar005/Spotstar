@@ -1,0 +1,242 @@
+{
+  "sid-sriram": {
+    "name": "Sid Sriram",
+    "image": "./images/music/singer/sid sriram (2).jpg",
+    "description": "Sid Sriram is a celebrated Indian-American playback singer and music producer, best known for his soulful voice in South Indian cinema. He trained at Berklee College of Music and blends Carnatic tradition with contemporary styles. His breakthrough came with 'Adiye' from Kadal, and he has since won numerous awards. Sid is also renowned for his electrifying live performances and global fanbase.",
+    "songs": [
+      { "title": "Aradhya", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+      { "title": "Ennadi Maayavi Nee", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+      { "title": "Samajavaragamana", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+      { "title": "Srivalli", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+      { "title": "Adiye", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }
+    ]
+  },
+  "pradeep-kumar": {
+    "name": "Pradeep Kumar",
+    "image": "./images/music/singer/pradeep-kumar.jpg",
+    "description": "Pradeep Kumar is a versatile Indian playback singer and composer, acclaimed for his soulful renditions in Tamil cinema. He is known for his deep, emotive voice and collaborations with top composers. Pradeep has contributed to many hit soundtracks and is respected for his musical sensitivity. His work bridges classical and contemporary music, earning him a loyal following.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+    ]
+  },
+  "karthik": {
+    "name": "Karthik",
+    "image": "./images/music/singer/kathik.jpg",
+    "description": "Karthik is a prolific Indian playback singer, recognized for his melodious voice and versatility across languages. He has sung for numerous hit films in Tamil, Telugu, and more. Karthik's smooth vocals and expressive style have made him a favorite among music lovers. He continues to inspire with his dynamic performances and chart-topping tracks.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" }
+    ]
+  },
+  "shakthisree": {
+    "name": "Shakthisree Gopalan",
+    "image": "./images/music/singer/Shakthisree.jpg",
+    "description": "Shakthisree Gopalan is an acclaimed Indian singer and composer, known for her unique voice and contemporary style. She has delivered memorable hits in Tamil cinema and is praised for her versatility. Shakthisree's collaborations with top composers have earned her critical and popular acclaim. Her music bridges genres, making her a standout artist in the industry.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-18.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-19.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-20.mp3" }
+    ]
+  },
+  "hariharan": {
+    "name": "Hariharan",
+    "image": "./images/music/singer/Hariharan.jpg",
+    "description": "Hariharan is a legendary Indian playback singer and ghazal artist, celebrated for his rich, emotive voice. He has sung in multiple languages and is known for his classical and film music. Hariharan has received numerous awards and is admired for his innovative musical collaborations. His timeless songs continue to resonate with audiences worldwide.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-21.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-22.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-23.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-24.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-25.mp3" }
+    ]
+  },
+  "ajith-kumar": {
+    "name": "Ajith Kumar",
+    "image": "./images/music/actor/ajithkumar.webp",
+    "description": "Ajith Kumar is a leading Tamil film actor, admired for his charismatic screen presence and versatility. Known as 'Thala' to his fans, he has starred in numerous blockbuster films. Ajith is also a professional car racer and philanthropist. His dedication and humility have earned him a devoted following in Indian cinema.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-26.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-27.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-28.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-29.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-30.mp3" }
+    ]
+  },
+  "vijay": {
+    "name": "Vijay",
+    "image": "./images/music/actor/vijay.jpg",
+    "description": "Vijay is a superstar of Tamil cinema, known for his dynamic acting and dance skills. He has delivered numerous box office hits and is loved for his philanthropic work. Vijay's energetic performances and mass appeal have made him a cultural icon. He continues to inspire millions with his talent and humility.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-31.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-32.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-33.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-34.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-35.mp3" }
+    ]
+  },
+  "rajanikanth": {
+    "name": "Rajanikanth",
+    "image": "./images/music/actor/rajani.jpg",
+    "description": "Rajanikanth is an iconic Indian actor, revered for his unique style and magnetic personality. He has acted in over 150 films and is a cultural phenomenon in Tamil Nadu. Rajanikanth's journey from bus conductor to superstar is legendary. His humility and philanthropy have made him a beloved figure across generations.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-36.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-37.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-38.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-39.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-40.mp3" }
+    ]
+  },
+  "kamal-haasan": {
+    "name": "Kamal Haasan",
+    "image": "./images/music/actor/kamal.jpg",
+    "description": "Kamal Haasan is a legendary Indian actor, filmmaker, and singer, celebrated for his versatility and innovation. He has won numerous awards and is known for pushing cinematic boundaries. Kamal's performances are marked by depth and realism. He is also a social activist and a respected voice in Indian culture.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-41.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-42.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-43.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-44.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-45.mp3" }
+    ]
+  },
+  "suriya": {
+    "name": "Suriya",
+    "image": "./images/music/actor/surya.jpg",
+    "description": "Suriya is a leading Tamil actor and producer, admired for his powerful performances and social initiatives. He has starred in critically acclaimed films and is known for his versatility. Suriya's philanthropic work through the Agaram Foundation is widely respected. He remains a role model for aspiring actors and fans alike.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-46.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-47.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-48.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-49.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-50.mp3" }
+    ]
+  },
+  "a-r-rahman": {
+    "name": "A. R. Rahman",
+    "image": "./images/music/music-director/arr.jpg",
+    "description": "A. R. Rahman is an Oscar-winning composer, singer, and music producer, celebrated for his innovative soundtracks. He has revolutionized Indian film music with his unique blend of classical, electronic, and world music. Rahman's work has earned him global recognition and numerous awards. He is admired for his humility and humanitarian efforts.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-51.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-52.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-53.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-54.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-55.mp3" }
+    ]
+  },
+  "anirudh-ravichander": {
+    "name": "Anirudh Ravichander",
+    "image": "./images/music/music-director/anirud.jpg",
+    "description": "Anirudh Ravichander is a dynamic Indian music composer and singer, known for his catchy tunes and youthful energy. He shot to fame with 'Why This Kolaveri Di' and has since delivered numerous chartbusters. Anirudh's innovative sound has made him a favorite among the younger generation. He continues to redefine contemporary Tamil music.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-56.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-57.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-58.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-59.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-60.mp3" }
+    ]
+  },
+  "yuvan-shankar-raja": {
+    "name": "Yuvan Shankar Raja",
+    "image": "./images/music/music-director/yuvan.jpg",
+    "description": "Yuvan Shankar Raja is a celebrated composer and singer, known for his trendsetting music in Tamil cinema. He is the son of legendary composer Ilaiyaraaja and has carved his own niche. Yuvan's fusion of genres and youthful sound have made him a favorite among fans. His music continues to influence new generations of artists.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-61.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-62.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-63.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-64.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-65.mp3" }
+    ]
+  },
+  "harris-jayaraj": {
+    "name": "Harris Jayaraj",
+    "image": "./images/music/music-director/haris.jpg",
+    "description": "Harris Jayaraj is a renowned music director, celebrated for his melodious and innovative compositions in Tamil and Telugu films. He has won several awards for his work and is known for his signature romantic tracks. Harris's music is characterized by catchy tunes and rich orchestration. He remains a leading figure in South Indian film music.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-66.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-67.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-68.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-69.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-70.mp3" }
+    ]
+  },
+  "gv-prakash": {
+    "name": "GV Prakash",
+    "image": "./images/music/music-director/Gv.jpg",
+    "description": "GV Prakash is a talented composer, actor, and singer, known for his youthful music and energetic performances. He began his career as a composer at a young age and quickly rose to fame. GV Prakash's catchy tunes and collaborations with top artists have made him a household name. He continues to innovate in both music and film.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-71.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-72.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-73.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-74.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-75.mp3" }
+    ]
+  },
+  "vivek": {
+    "name": "Vivek",
+    "image": "./images/music/Lyricist/vivek.jpg",
+    "description": "Vivek is a contemporary Tamil lyricist, known for his meaningful and impactful lyrics. He has worked with leading composers and contributed to many hit songs. Vivek's writing is noted for its depth and relatability. His work continues to resonate with audiences and inspire new lyricists.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-76.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-77.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-78.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-79.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-80.mp3" }
+    ]
+  },
+  "vaali": {
+    "name": "Vaali",
+    "image": "./images/music/Lyricist/vaali.jpg",
+    "description": "Vaali was a legendary Tamil lyricist, celebrated for his prolific output and poetic brilliance. He penned thousands of songs over a career spanning five decades. Vaali's lyrics are known for their wit, depth, and emotional resonance. His legacy continues to influence Tamil music and culture.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-81.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-82.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-83.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-84.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-85.mp3" }
+    ]
+  },
+  "vairamuthu": {
+    "name": "Vairamuthu",
+    "image": "./images/music/Lyricist/vairamutu.webp",
+    "description": "Vairamuthu is a renowned Tamil poet and lyricist, honored with multiple National Awards for his literary contributions. His lyrics are celebrated for their poetic beauty and social relevance. Vairamuthu has worked with all leading composers and directors. His words have left a lasting impact on Tamil music and literature.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-86.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-87.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-88.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-89.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-90.mp3" }
+    ]
+  },
+  "madan-karthy": {
+    "name": "Madan Karthy",
+    "image": "./images/music/Lyricist/madan karthy.jpg",
+    "description": "Madan Karthy is a modern Tamil lyricist, known for his creative and relatable lyrics in film songs. He has worked with several top composers and directors. Madan's writing is appreciated for its freshness and emotional depth. He continues to contribute memorable songs to Tamil cinema.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-91.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-92.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-93.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-94.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-95.mp3" }
+    ]
+  },
+  "na-muthukumar": {
+    "name": "Na. Muthukumar",
+    "image": "./images/music/Lyricist/na muthukumar.jpg",
+    "description": "Na. Muthukumar was a celebrated Tamil poet and lyricist, known for his heartfelt and meaningful lyrics. He won multiple awards for his work in Tamil cinema. Muthukumar's songs are cherished for their emotional depth and poetic beauty. His legacy lives on through his timeless contributions to music.",
+    "songs": [
+      { "title": "Song 1", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-96.mp3" },
+      { "title": "Song 2", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-97.mp3" },
+      { "title": "Song 3", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-98.mp3" },
+      { "title": "Song 4", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-99.mp3" },
+      { "title": "Song 5", "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-100.mp3" }
+    ]
+  }
+} 
