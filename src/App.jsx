@@ -40,13 +40,14 @@ export default function App() {
     <>
       {!hideNavbar && <Navbar />}
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/home" element={<Home />} />
+        
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
         <Route path="/reset-password" element={<ResetPassword />} />
         <Route path="/otp-verification" element={<OtpVerification />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/music" element={<Music />} />
         <Route path="/music/:type/:name" element={<IndividualMusicRoute />} />
         <Route path="/sid-sriram" element={<IndividualMusic />} />
